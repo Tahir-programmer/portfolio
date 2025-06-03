@@ -1,7 +1,7 @@
 import React from 'react'
 
 function NavMenus() {
-  const navMenu =['Services', 'Works', 'Resume', 'Skills', 'Testimonials', 'Contact'];
+  const navMenu =['Services', 'Works', 'Resume', 'Skills', 'Testimonials', 'Contact', 'Help'];
 
 
   return (
